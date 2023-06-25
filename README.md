@@ -1,4 +1,4 @@
-# MLH-WAFFLEHACKS-2023 ** Best Beginner Hack**hackthon project
+# MLH-WAFFLEHACKS-2023 ** Best Beginner Hack**hackathon project
 
 
 
